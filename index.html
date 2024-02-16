@@ -27,11 +27,11 @@
         color: #d8f;
       }
 
-      button {
+      button, a {
         cursor: pointer;
       }
 
-      button:focus {
+      :is(button, a):focus {
         z-index: 1;
       }
 
@@ -195,22 +195,20 @@
         flex-direction: row;
       }
 
-      .controls button {
+      .controls :is(button, a) {
         background: linear-gradient(to bottom, #222, #000);
         color: #777;
         border: 1px solid #333;
+        border-radius: var(--button-border-radius);
         border-top: 1px solid #404040;
         box-shadow: 0 1px 1px #000;
         padding: 4px 12px 3px;
         font-family: 'Lucida Grande', Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        text-decoration: none;
       }
 
-      .controls button:first-child {
-        border-radius: var(--button-border-radius) 0 0
-          var(--button-border-radius);
-      }
-
-      .controls button:hover {
+      .controls :is(button, a):hover {
         color: #fff;
       }
 
@@ -289,8 +287,7 @@
       }
 
       .volume {
-        margin-left: auto;
-        margin-right: 12px;
+        margin-inline: 12px;
         display: flex;
         flex-direction: row;
         align-items: center;
@@ -303,10 +300,14 @@
       .volume-icon {
         width: 18px;
         height: 18px;
-        margin-right: 6px;
+        margin-inline-end: 6px;
         background-image: url("src/volume.png");
         background-size: contain;
         filter: invert(33%);
+      }
+
+      .spacer {
+        flex-grow: 1;
       }
     </style>
     <script>

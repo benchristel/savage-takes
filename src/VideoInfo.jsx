@@ -90,21 +90,13 @@ export function VideoInfo(props: {|
       <button ref={closeButtonRef} className="close-button" aria-label="close info pane" onClick={onClose}>
         close
       </button>
-      <h1>Culture Machine</h1>
+      <h1>Savage Takes</h1>
       <p>
-        Made by <a href="https://github.com/benchristel">Ben Christel</a>.{" "}
-        <a href="https://github.com/benchristel/tv">Source code here</a>. Some
-        rights reserved. See the{" "}
-        <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">license</a>.
+        Adam Savage's thoughts on making, curated for programmers.
       </p>
       <p>
-        <span dangerouslySetInnerHTML={{__html: `
-          <a href="${bookmarklet}">
-            Bookmarklet to scrape videos from YouTube
-          </a>
-        `}}/>
-        {" "}
-        (<a href="https://github.com/benchristel/tv#what-is-a-bookmarklet">What's this?</a>)
+        Design and code by <a href="https://github.com/benchristel">Ben Christel</a>.{" "}
+        <a href="https://github.com/benchristel/tv">Source code here</a>.
       </p>
       <hr />
       <h2>Video Info</h2>

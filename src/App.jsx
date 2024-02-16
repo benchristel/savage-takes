@@ -91,14 +91,6 @@ export function App(): React.Node {
       }
       controlPanel={
         <>
-          <ChannelSwitcher
-            channels={channels}
-            onChannelSelected={(ch) => {
-              setChannel(ch)
-              setUserRequestedPlayback()
-            }}
-          />
-          <VolumeControl volume={volume} onChange={setVolume}/>
           <button
             className={
               infoPaneOpen
@@ -112,6 +104,11 @@ export function App(): React.Node {
           >
             Info
           </button>
+          <VolumeControl volume={volume} onChange={setVolume}/>
+          <div class="spacer"/>
+          <a href="https://github.com/benchristel/savage-takes">
+            Fork me on GitHub!
+          </a>
         </>
       }
     />
