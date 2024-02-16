@@ -308,7 +308,12 @@ IeFIhKaJEFo 31:34 Adam Savage's One Day Builds: Dune Sand Compactor Replica!
 uEcx6yb5yXQ 41:33 Adam Savage's One Day Builds: Magnetic Lathe Chuck!
 ykr2IMSYDMc 30:43 Adam Savage's One Day Builds: Ping Pong Ball Launcher!
 jQSTJSniXKM 32:25 Adam Savage's One Day Builds: Fixing the Mill's Motor Fan
+
 3qOJakmE7Pk 33:52 Adam Savage's One Day Builds: Mythbusters Blueprint Display with Kyle Hill!
+# "work with what you have; if you make a mistake, keep going"
+# TAKE THE HAMMERS OUT OF CONTEXT
+# Higher than half, but... This is my favorite thing about the world
+
 gaJgfS_2LZ4 32:36 Adam Savage's One Day Builds: Gauge Block Storage Rack!
 _2kmXLP_uXg 33:13 Adam Savage's One Day Builds: Machining Mystery Prop!
 m6VYpHdBG84 15:48 Adam Savage's One Day Builds: Weathering a Sword Blank!
