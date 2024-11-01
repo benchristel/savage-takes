@@ -14,4 +14,5 @@ qQlF7upgTlA 8:49-9:15 Ask Adam Savage: "What Do You Think Will Be Your Legacy?"
 5CRSXcoasQQ 6:23-7:10 You can start late and be great
 exCrXc8hAAA 0:00-2:29 No amount of whiteboarding prepares you for just starting
 cgFmFqh90PU 1:08-6:01 Ask Adam Savage: MythBusters' Unsung Heroes
+T5fjMnfSSbQ 0:00-4:03 Plan upfront or wing it?
 `
