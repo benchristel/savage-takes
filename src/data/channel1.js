@@ -15,4 +15,7 @@ qQlF7upgTlA 8:49-9:15 Ask Adam Savage: "What Do You Think Will Be Your Legacy?"
 exCrXc8hAAA 0:00-2:29 No amount of whiteboarding prepares you for just starting
 cgFmFqh90PU 1:08-6:01 Ask Adam Savage: MythBusters' Unsung Heroes
 T5fjMnfSSbQ 0:00-4:03 Plan upfront or wing it?
+
+# "objects of power bring their own moral compass - you can't control them"
+H6yVtuPG1lc 0:00-13:57 Ask Adam Savage: Working With Tory on Savage Builds
 `
