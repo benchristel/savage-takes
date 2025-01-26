@@ -92,7 +92,10 @@ export function VideoInfo(props: {|
       </button>
       <h1>Savage Takes</h1>
       <p>
-        Adam Savage's thoughts on making, curated for programmers.
+        <a href="https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA">
+          Adam Savage's
+        </a>
+        thoughts on making, curated for programmers.
       </p>
       <p>
         Design and code by <a href="https://github.com/benchristel">Ben Christel</a>.{" "}
