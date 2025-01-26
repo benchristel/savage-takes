@@ -95,6 +95,7 @@ export function VideoInfo(props: {|
         <a href="https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA">
           Adam Savage's
         </a>
+        {" "}
         thoughts on making, curated for programmers.
       </p>
       <p>
