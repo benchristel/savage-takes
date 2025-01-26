@@ -16,5 +16,6 @@ exCrXc8hAAA 0:00-2:29 No amount of whiteboarding prepares you for just starting
 cgFmFqh90PU 1:08-6:01 Ask Adam Savage: MythBusters' Unsung Heroes
 T5fjMnfSSbQ 0:00-4:03 Plan upfront or wing it?
 H6yVtuPG1lc 4:49-8:27 "objects of power bring their own moral compass - you can't control them"
+H6yVtuPG1lc 9:47-10:45 The ethos of the right idea
 O1--0DLJv-8 8:39-9:08 If you make sure you're not lazy in the beginning, you might give yourself an opportunity to be lazy later, when you're tired.
 `
