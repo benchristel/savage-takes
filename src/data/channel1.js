@@ -19,4 +19,6 @@ H6yVtuPG1lc 4:49-8:27 "objects of power bring their own moral compass - you can'
 H6yVtuPG1lc 9:47-10:45 The ethos of the right idea
 O1--0DLJv-8 8:39-9:08 If you make sure you're not lazy in the beginning, you might give yourself an opportunity to be lazy later, when you're tired.
 IkawOT_Cg-s 0:00-8:41 There is no formula for success. There is a formula for failure, and it involves thinking you know the formula for success.
+ajHmyFX9zvk 21:22-22:02 When you have a tool, you should take it apart!
+ajHmyFX9zvk 23:40-24:15 I don't have all second!
 `
