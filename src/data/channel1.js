@@ -3,7 +3,7 @@
 export const episodes: Array<string> = []
 
 export const videos: string = `
-7KllsOwtHK0 4:45-4:48 Ask Adam Savage: Ark of the Covenant Replicas and Duct Tape Bullwhips
+# 7KllsOwtHK0 4:45-4:48 Ask Adam Savage: Ark of the Covenant Replicas and Duct Tape Bullwhips
 6HOWrW4p-Xg 7:19-10:57 The point of storage is to know where everything is
 UUNBBNLCqmU 0-2:14 In order to assess a technique, I have to have already thought how I would do it
 UUNBBNLCqmU 2:25-3:17 The give and take of collaboration
@@ -21,4 +21,6 @@ O1--0DLJv-8 8:39-9:08 If you make sure you're not lazy in the beginning, you mig
 IkawOT_Cg-s 0:00-8:41 There is no formula for success. There is a formula for failure, and it involves thinking you know the formula for success.
 ajHmyFX9zvk 21:22-22:02 When you have a tool, you should take it apart!
 ajHmyFX9zvk 23:40-24:15 I don't have all second!
+xePxGWc_mH0 30:00-31:30 Embrace the tedium
+AumnIehXwyI 35:57 Adam Savage's One Day Builds: Staple Sorter and Organizer!
 `
